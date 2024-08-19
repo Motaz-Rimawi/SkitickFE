@@ -1,0 +1,12 @@
+.background {
+  background: linear-gradient(180deg, #bfffc6 0%, #00dc72 100%);
+}
+
+.content_text {
+  font-family: Heebo;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #242c27;
+}
